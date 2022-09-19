@@ -1,4 +1,4 @@
-# Examples of usage of `PasshPapyrus` from a `Scribe` :memo:
+#  :memo: Examples of usage of `PasshPapyrus` from a `Scribe`
 
 ## :a: Connection with SSH and Interaction in the terminal
 

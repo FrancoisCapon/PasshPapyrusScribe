@@ -1,5 +1,7 @@
 #  :memo: Examples of usage of `PasshPapyrus` from a `Scribe`
 
+[Passh](https://github.com/clarkwang/passh#readme) is very usefull, with it I can easly "have a `tty` in a webshell", so I published this little project to help to write "passh scripts".
+
 ## :a: Connection with SSH and Interaction in the terminal
 
 ### :one: Define
